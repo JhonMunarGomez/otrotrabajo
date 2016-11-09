@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="portada2" size="512.000000 288.000000" />
+    <ImageTarget name="CREDITOS" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-13" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-12" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-11" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-10" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-9" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-8" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-7" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-6" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-5" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-4" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-3" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-2" size="512.000000 292.864014" />
+    <ImageTarget name="PAGINA-1" size="512.000000 292.864014" />
+    <ImageTarget name="PORTADA" size="512.000000 288.000000" />
+  </Tracking>
+</QCARConfig>
